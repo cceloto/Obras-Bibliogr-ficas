@@ -3,7 +3,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable, of } from 'rxjs';
 import { map, catchError, tap } from 'rxjs/operators';
 
-const endpoint = 'https://localhost:44315/';
+const endpoint = 'https://localhost:5000/';
 
 @Injectable({
   providedIn: 'root'
