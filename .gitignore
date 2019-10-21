@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/GInvestimentos/.vs/GInvestimentos/v16
+/.vs
+/GInvestimentos/GInvestimentos.API/obj
+/GInvestimentos/GInvestimentos.API/Properties
+/GInvestimentos/GInvestimentos.API/bin/Debug/netcoreapp3.0
+/GInvestimentos/GInvestimentos.API/bin/Debug/netcoreapp2.2
+/GInvestimentos/.vs/GInvestimentos
